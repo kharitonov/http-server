@@ -1,0 +1,13 @@
+header {
+	text-align: center;
+	border-bottom: 1px solid black;
+	margin-bottom: 1em;
+}
+
+.center {
+	text-align: center;
+}
+
+a:hover {
+	font-weight: bold;
+}
